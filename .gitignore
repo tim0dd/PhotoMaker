@@ -1,7 +1,9 @@
 release_results/
 civitai_models/
 gradio_cached_examples/
-outputs/
+gradio_demo/custom_styles.py
+out/
+in/
 __pycache__/
 .idea/
 *.bin
